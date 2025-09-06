@@ -16,3 +16,9 @@
 # Ignore OS files
 .DS_Store
 Thumbs.db
+
+# Ignore generated ticket text files
+*.txt
+
+# <-- comment this out so your schema file can be tracked
+*.sql   
