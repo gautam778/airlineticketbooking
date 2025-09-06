@@ -1,0 +1,15 @@
+====================================
+        AIRLINE TICKET RECEIPT      
+====================================
+Ticket ID: 4
+Passenger: pankaj
+Age: 34
+Gender: Male
+Passport: 
+------------------------------------
+Flight No: AI105
+Route: Hyderabad → Pune
+Date: 2025-09-14
+====================================
+   Thank you for booking with us!   
+====================================

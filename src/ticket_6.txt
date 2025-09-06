@@ -1,0 +1,15 @@
+====================================
+        AIRLINE TICKET RECEIPT      
+====================================
+Ticket ID: 6
+Passenger: POOJA
+Age: 23
+Gender: Female
+Passport: 
+------------------------------------
+Flight No: AI110
+Route: Chennai → Hyderabad
+Date: 2025-09-19
+====================================
+   Thank you for booking with us!   
+====================================

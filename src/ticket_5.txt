@@ -1,0 +1,15 @@
+====================================
+        AIRLINE TICKET RECEIPT      
+====================================
+Ticket ID: 5
+Passenger: RINA
+Age: 20
+Gender: Female
+Passport: 
+------------------------------------
+Flight No: AI109
+Route: Delhi → Goa
+Date: 2025-09-18
+====================================
+   Thank you for booking with us!   
+====================================

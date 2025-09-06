@@ -1,0 +1,10 @@
+==== Airline Ticket ====
+Flight Number: AI101
+Source: Delhi
+Destination: Mumbai
+Date: 2025-09-10
+-----------------------
+Passenger: RAHUL
+Age: 23
+Gender: Male
+=======================

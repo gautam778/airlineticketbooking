@@ -1,0 +1,18 @@
+# Ignore compiled files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore database configs (if any sensitive info)
+*.db
+*.sql
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
